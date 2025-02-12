@@ -131,7 +131,7 @@ home_banner:
   title: 永盛工艺の官网
   # Home banner subtitle
   subtitle:
-    text: ["品质永盛，梦想新城","永盛工艺官网by linfeng"] # subtitle text, array
+    text: ["品质永盛，梦想新城","永盛工艺官网by linfeng","服务器暂不招新喵~","感谢LeonMMcoset提供技术支持~"] # subtitle text, array
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
