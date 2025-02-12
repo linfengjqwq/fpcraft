@@ -11,13 +11,13 @@
 # Docs: https://redefine-docs.ohevan.com/basic/info
 info:
   # Site title
-  title: Theme Redefine
+  title: 永盛工艺の官网
   # Site subtitle
-  subtitle: Redefine Your Hexo Journey.
+  subtitle: 品质永盛，梦想新城
   # Author name
-  author: The Redefine Team
+  author: linfeng
   # Site URL
-  url: https://redefine.ohevan.com
+  url: https://linfengjqwq.github.io/fpcraft/
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -25,11 +25,11 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/redefine-favicon.svg
+  favicon: logo.png
   # Site logo
-  logo: 
+  logo: logo.png
   # Site avatar
-  avatar: /images/redefine-avatar.svg
+  avatar: logo.png
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -37,7 +37,7 @@ defaults:
 # Docs: https://redefine-docs.ohevan.com/basic/colors
 colors:
   #Primary color
-  primary: "#A31F34"
+  primary: "#FEB00A"
   # Secondary color (TBD)
   secondary:
   # Default theme mode initial value (will be overwritten by prefer-color-scheme)
@@ -131,7 +131,7 @@ home_banner:
   title: Theme Redefine
   # Home banner subtitle
   subtitle:
-    text: [] # subtitle text, array
+    text: ["品质永盛，梦想新城","永盛工艺官网by linfeng"] # subtitle text, array
     hitokoto:  # 一言配置
       enable: false # Whether to enable hitokoto
       show_author: false # Whether to show author
@@ -170,11 +170,8 @@ home_banner:
     style: default # default, reverse, center
     # Social links
     links:
-      github:  # your GitHub URL
-      instagram: # your Instagram URL
-      zhihu:  # your ZhiHu URL
-      twitter:  # your twitter URL
-      email:  # your email
+      qq: https://qm.qq.com/q/Ukouu2pXQy  # your qq URL
+      bilibili: https://space.bilibili.com/1447832691?spm_id_from=333.337.0.0 # your bilibili URL
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
@@ -215,6 +212,13 @@ navbar:
     #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
     #     Blog: https://ohevan.com
     #     Friends: /friends
+    友好服务器: 
+      icon: fa-regular fa-link
+      submenus:
+        Leon轨道交通: https://leonmmcoset.github.io/vitepress/teach/mtr7180.html
+        HRMTR: https://hrmtr.top/
+        云山城市建设服务器（无官网）: /
+        MTR小众服务器: http://wujdyd.rth1.xyz/
     # Links: 
     #   icon: fa-regular fa-link
     #   submenus:
