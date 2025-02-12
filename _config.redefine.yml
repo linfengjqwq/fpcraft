@@ -128,7 +128,7 @@ home_banner:
     light: /images/wallhaven-wqery6-light.webp # light mode
     dark: /images/wallhaven-wqery6-dark.webp # dark mode
   # Home banner title
-  title: Theme Redefine
+  title: 永盛工艺の官网
   # Home banner subtitle
   subtitle:
     text: ["品质永盛，梦想新城","永盛工艺官网by linfeng"] # subtitle text, array
