@@ -199,6 +199,9 @@ navbar:
     Home: 
       path: / 
       icon: fa-regular fa-house # can be empty
+    教程:
+      path: /2025/02/13/hello-world/
+      icon: fa-regular fa-book
     # Archives: 
     #   path: /archives 
     #   icon: fa-regular fa-archive # can be empty
