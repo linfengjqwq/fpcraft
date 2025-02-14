@@ -202,6 +202,9 @@ navbar:
     教程:
       path: /2025/02/13/hello-world/
       icon: fa-regular fa-book
+    黑名单:
+      path: /2025/02/13/黑名单/
+      icon: fa-solid fa-ban
     # Archives: 
     #   path: /archives 
     #   icon: fa-regular fa-archive # can be empty
