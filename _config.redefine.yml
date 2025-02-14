@@ -125,8 +125,8 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image: 
-    light: /images/fpcraft_light.png # light mode
-    dark: /images/fpcraft_dark.png # dark mode
+    light: /images/fpcraft_light.webp # light mode
+    dark: /images/fpcraft_dark.webp # dark mode
   # Home banner title
   title: 永盛工艺の官网
   # Home banner subtitle
