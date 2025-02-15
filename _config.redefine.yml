@@ -205,6 +205,9 @@ navbar:
     黑名单:
       path: /2025/02/13/黑名单/
       icon: fa-solid fa-ban
+    审核结果:
+      path: /2025/02/15/审核结果公示/
+      icon: fa-solid fa-magnifying-glass
     千 万 别 点:
       path: https://www.bilibili.com/video/BV1GJ411x7h7/?spm_id_from=333.337.search-card.all.click
       icon: fa-solid fa-circle-xmark
