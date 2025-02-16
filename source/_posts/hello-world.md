@@ -5,7 +5,7 @@ date: 2025-02-13 18:40:00
 ---
 ## 进入内群前
 请您在门户群的群公告中寻找问卷链接，审核通过后您将被拉入内群~
-`**[问卷传送门](https://docs.qq.com/form/page/DVGhNYUFETER6SEdz)**`
+**[问卷传送门](https://docs.qq.com/form/page/DVGhNYUFETER6SEdz)**
 **请不要敷衍了事，否则我们会取消您的入服资格！！！**
 
 ## 进入内群后
