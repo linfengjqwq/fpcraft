@@ -202,9 +202,6 @@ navbar:
     教程:
       path: /2025/02/13/hello-world/
       icon: fa-regular fa-book
-    黑名单:
-      path: /2025/02/13/黑名单/
-      icon: fa-solid fa-ban
     问卷传送门:
       path: https://docs.qq.com/form/page/DVGhNYUFETER6SEdz
       icon: fa-solid fa-pen
